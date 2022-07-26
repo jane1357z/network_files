@@ -1,8 +1,0 @@
-source,target,intensity
-alice,bob,1
-alice,celine,1
-bob,dave,2
-celine,dave,2
-celine,eve,3
-dave,eve,1
-alice,dave,1
